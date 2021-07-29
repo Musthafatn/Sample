@@ -20,4 +20,11 @@ public class Calculator {
 		return z;
 	}
 
+	public static int sub(final int a, final int b) {
+		final int x = a;
+		final int y = b;
+		final int z = x - y;
+		return z;
+	}
+
 }
