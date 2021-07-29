@@ -8,6 +8,7 @@ public class JDBC {
 
 	public static void main(final String[] args) throws Exception {
 
+		// scg is the database
 		final String url = "jdbc:mysql://localhost:3306/scg";
 		final String uname = "root";
 		final String pass = "Root_1234";
