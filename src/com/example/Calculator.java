@@ -11,9 +11,9 @@ public class Calculator {
 		final int b = s.nextInt();
 		final int c = add(a, b);
 		System.out.println(c);
-//		final var aaaaa = String.format("%s%n%s%nVAT Registration: %s%nBranch Code: %s", "aaaa", "bbbbb", "ccccc",
-//				"ddddddd");
-//		System.out.println(aaaaa);
+		final var aaaaa = String.format("%s%n%s%nVAT Registration: %s%nBranch Code: %s", "aaaa", "bbbbb", "ccccc",
+				"ddddddd");
+		System.out.println(aaaaa);
 		System.out.println("hi");
 	}
 
