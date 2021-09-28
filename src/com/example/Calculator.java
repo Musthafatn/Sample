@@ -10,7 +10,7 @@ public class Calculator {
 		final int a = s.nextInt();
 		final int b = s.nextInt();
 		final int c = add(a, b);
-//		System.out.println(c);
+		System.out.println(c);
 //		final var aaaaa = String.format("%s%n%s%nVAT Registration: %s%nBranch Code: %s", "aaaa", "bbbbb", "ccccc",
 //				"ddddddd");
 //		System.out.println(aaaaa);
